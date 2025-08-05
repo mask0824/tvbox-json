@@ -1,0 +1,25 @@
+{
+  "spider": "https://agit.ai/mask0824/MissAv/raw/branch/master/jar/MissAv_v1.0.5.jar;md5;53f8246c5b2141cb2ef9eb2d6e9b1a29",
+  "sites": [
+    {
+      "key": "MissAV",
+      "name": "🎬MissAV",
+      "type": 3,
+      "api": "csp_MissAv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "parses": [
+    {
+      "name": "json解析",
+      "url": "https://api.tvbox.cainisi.cf"
+    }
+  ],
+  "flags": ["qi"],
+  "wallpaper": "https://picsum.photos/1280/720/?blur",
+  "drives": []
+}
+
